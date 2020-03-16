@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8385436348c320ba467f3bcdbf95670b",
+    "revision": "4c0b6a8b506185a50a32ec259542d53d",
     "url": "/outbreak-simulator/index.html"
   },
   {
