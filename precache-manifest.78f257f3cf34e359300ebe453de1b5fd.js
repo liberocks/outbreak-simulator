@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b106c41addf445d9d57f69887c253ef",
+    "revision": "e39d8b67a1a5461793cca098ebdba36a",
     "url": "/outbreak-simulator/index.html"
   },
   {
-    "revision": "019ea9de00d42c6f6957",
+    "revision": "7b04285c2d2cfb701095",
     "url": "/outbreak-simulator/static/css/main.b7677955.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/outbreak-simulator/static/js/2.756ee00c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "019ea9de00d42c6f6957",
-    "url": "/outbreak-simulator/static/js/main.09f423e4.chunk.js"
+    "revision": "7b04285c2d2cfb701095",
+    "url": "/outbreak-simulator/static/js/main.ad69a91f.chunk.js"
   },
   {
     "revision": "f808223dcc75c4e08975",
