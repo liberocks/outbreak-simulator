@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/outbreak-simulator/precache-manifest.877f717a90af940c7b236450ffc8d901.js"
+  "/outbreak-simulator/precache-manifest.39770a313e93cf8f0ccfa7564ea13533.js"
 );
 
 self.addEventListener('message', (event) => {
