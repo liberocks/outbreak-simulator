@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/outbreak-simulator/static/css/main.b7677955.chunk.css",
+    "main.js": "/outbreak-simulator/static/js/main.d3a3b0e8.chunk.js",
+    "main.js.map": "/outbreak-simulator/static/js/main.d3a3b0e8.chunk.js.map",
+    "runtime-main.js": "/outbreak-simulator/static/js/runtime-main.0c433f6c.js",
+    "runtime-main.js.map": "/outbreak-simulator/static/js/runtime-main.0c433f6c.js.map",
+    "static/js/2.756ee00c.chunk.js": "/outbreak-simulator/static/js/2.756ee00c.chunk.js",
+    "static/js/2.756ee00c.chunk.js.map": "/outbreak-simulator/static/js/2.756ee00c.chunk.js.map",
+    "index.html": "/outbreak-simulator/index.html",
+    "precache-manifest.a83f3710bdc38087a1b51dbd3c97f38a.js": "/outbreak-simulator/precache-manifest.a83f3710bdc38087a1b51dbd3c97f38a.js",
+    "service-worker.js": "/outbreak-simulator/service-worker.js",
+    "static/css/main.b7677955.chunk.css.map": "/outbreak-simulator/static/css/main.b7677955.chunk.css.map",
+    "static/js/2.756ee00c.chunk.js.LICENSE.txt": "/outbreak-simulator/static/js/2.756ee00c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c433f6c.js",
+    "static/js/2.756ee00c.chunk.js",
+    "static/css/main.b7677955.chunk.css",
+    "static/js/main.d3a3b0e8.chunk.js"
+  ]
+}
