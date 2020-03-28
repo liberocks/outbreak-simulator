@@ -1,0 +1,58 @@
+import React from 'react'
+import Sketch from 'react-p5'
+import Bar from './bar'
+
+export default function App() {
+  const { innerWidth: width, innerHeight: height } = window
+  let x = 50
+  const y = 50
+  const flagBars = {}
+
+  const background = p5 => {
+    p5.background(128)
+  }
+
+  const loadFlag = (p5) => {
+
+    for (const country of require('./flags').default.flags) {
+      const flagBar = new Bar(p5, { x: 100, y: 500 })
+      flagBar.setup(country)
+      flagBars[country.code] = flagBar
+    }
+  }
+
+  const title = p5 => {
+    p5.fill(20, 20, 20)
+    p5.textSize(32)
+    p5.text('Corona Virus Confirmed Case Outside China Mainland', 30, 60)
+  }
+
+  const bar = () => {
+    flagBars.us.setXTarget(x)
+    flagBars.us.setYTarget(50)
+    flagBars.us.move()
+
+    x += 2
+    if (x > width) x = 0
+  }
+
+  const preload = (p5) => {
+    loadFlag(p5)
+  }
+
+  const setup = (p5, parent) => {
+    p5.createCanvas(width, height).parent(parent)
+    p5.noStroke()
+  }
+
+  const draw = p5 => {
+    background(p5)
+    title(p5)
+    bar()
+  }
+  return (
+    <div className='App'>
+      <Sketch preload={preload} setup={setup} draw={draw} />
+    </div>
+  )
+}
