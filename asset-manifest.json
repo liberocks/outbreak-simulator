@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sir-compartmental-simulator/static/css/main.b7677955.chunk.css",
-    "main.js": "/sir-compartmental-simulator/static/js/main.219e9346.chunk.js",
-    "main.js.map": "/sir-compartmental-simulator/static/js/main.219e9346.chunk.js.map",
-    "runtime-main.js": "/sir-compartmental-simulator/static/js/runtime-main.f29a6e11.js",
-    "runtime-main.js.map": "/sir-compartmental-simulator/static/js/runtime-main.f29a6e11.js.map",
-    "static/js/2.624016ce.chunk.js": "/sir-compartmental-simulator/static/js/2.624016ce.chunk.js",
-    "static/js/2.624016ce.chunk.js.map": "/sir-compartmental-simulator/static/js/2.624016ce.chunk.js.map",
-    "index.html": "/sir-compartmental-simulator/index.html",
-    "precache-manifest.9a2ae97da7a88d40c035d5e570955ff8.js": "/sir-compartmental-simulator/precache-manifest.9a2ae97da7a88d40c035d5e570955ff8.js",
-    "service-worker.js": "/sir-compartmental-simulator/service-worker.js",
-    "static/css/main.b7677955.chunk.css.map": "/sir-compartmental-simulator/static/css/main.b7677955.chunk.css.map",
-    "static/js/2.624016ce.chunk.js.LICENSE.txt": "/sir-compartmental-simulator/static/js/2.624016ce.chunk.js.LICENSE.txt"
+    "main.css": "/outbreak-simulator/static/css/main.b7677955.chunk.css",
+    "main.js": "/outbreak-simulator/static/js/main.1e0e8eb2.chunk.js",
+    "main.js.map": "/outbreak-simulator/static/js/main.1e0e8eb2.chunk.js.map",
+    "runtime-main.js": "/outbreak-simulator/static/js/runtime-main.0c433f6c.js",
+    "runtime-main.js.map": "/outbreak-simulator/static/js/runtime-main.0c433f6c.js.map",
+    "static/js/2.8408cf15.chunk.js": "/outbreak-simulator/static/js/2.8408cf15.chunk.js",
+    "static/js/2.8408cf15.chunk.js.map": "/outbreak-simulator/static/js/2.8408cf15.chunk.js.map",
+    "index.html": "/outbreak-simulator/index.html",
+    "precache-manifest.6d5519007156eb42152f79f0143c0f7d.js": "/outbreak-simulator/precache-manifest.6d5519007156eb42152f79f0143c0f7d.js",
+    "service-worker.js": "/outbreak-simulator/service-worker.js",
+    "static/css/main.b7677955.chunk.css.map": "/outbreak-simulator/static/css/main.b7677955.chunk.css.map",
+    "static/js/2.8408cf15.chunk.js.LICENSE.txt": "/outbreak-simulator/static/js/2.8408cf15.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f29a6e11.js",
-    "static/js/2.624016ce.chunk.js",
+    "static/js/runtime-main.0c433f6c.js",
+    "static/js/2.8408cf15.chunk.js",
     "static/css/main.b7677955.chunk.css",
-    "static/js/main.219e9346.chunk.js"
+    "static/js/main.1e0e8eb2.chunk.js"
   ]
 }
